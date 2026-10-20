@@ -743,6 +743,6 @@ java -cp target/classes com.shopsphere.network.rmi.RmiInventoryClient localhost 
 ## 👨‍💻 Repository & Author Information
 
 - **Course:** Advanced Java Programming Laboratory (ADJ Lab)
-- **Repository:** [https://github.com/SHEKHAWATNAVENDU/Java_Lab](https://github.com/SHEKHAWATNAVENDU/Java_Lab)
+- **Repository:** (https://github.com/SHEKHAWATNAVENDU/java_Lab_Project)
 - **Active Branch:** `main`
 - **Author:** Navendu Pratap Singh
