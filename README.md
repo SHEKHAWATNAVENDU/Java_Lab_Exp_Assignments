@@ -17,7 +17,7 @@ A comprehensive collection of **Advanced Java Programming** laboratory practical
 - [Experiment 6: Remote Method Invocation (Java RMI Distributed Computing)](#-experiment-6-remote-method-invocation-java-rmi-distributed-computing)
 - [Experiment 7: Web Server Environment Setup & Application Deployment (Apache Tomcat 9)](#-experiment-7-web-server-environment-setup--application-deployment-apache-tomcat-9)
 - [Experiment 8: Java Web Development with Servlets, Filters, and Listeners](#-experiment-8-java-web-development-with-servlets-filters-and-listeners)
-- [Experiment 9 / Capstone: ShopSphere E-Commerce Platform (java_Lab_Project)](#-experiment-9--capstone-shopsphere-e-commerce-platform-java_lab_project)
+- [Experiment 9 / Capstone: ShopSphere E-Commerce Platform (shopsphere)](#-experiment-9--capstone-shopsphere-e-commerce-platform-shopsphere)
 - [Troubleshooting Guide](#-troubleshooting-guide)
 - [Repository & Author Information](#-repository--author-information)
 
@@ -743,8 +743,8 @@ java -cp target/classes com.shopsphere.network.rmi.RmiInventoryClient localhost 
 ## 👨‍💻 Repository & Author Information
 
 - **Course:** Advanced Java Programming Laboratory (ADJ Lab)
-- **Repository:** [https://github.com/RahulSN7/java_lab](https://github.com/RahulSN7/java_lab)
+- **Repository:** [https://github.com/SHEKHAWATNAVENDU/Java_Lab](https://github.com/SHEKHAWATNAVENDU/Java_Lab)
 - **Active Branch:** `main`
-- **Author:** Rahul Singh Negi ([@RahulSN7](https://github.com/RahulSN7))
-
----
+- **Author:** Navendu Pratap Singh
+---#   J a v a _ L a b  
+ 
