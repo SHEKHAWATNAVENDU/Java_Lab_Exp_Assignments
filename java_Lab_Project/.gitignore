@@ -1,0 +1,68 @@
+# ShopSphere — .gitignore
+# Generated for Java/Maven/Tomcat project on Windows
+# ─────────────────────────────────────────────────────
+
+# ── Secrets & local configuration ────────────────────────────────────────────
+# Never commit real credentials or machine-specific config files.
+.env
+.env.*
+*.env
+local.properties
+db.properties
+secrets.properties
+
+# setenv.bat.template was added to .gitignore because it may contain a real
+# MySQL password.  Copy it outside the project root before editing.
+scripts/setenv.bat.template
+
+# PowerShell environment override (if the user creates a local override file)
+local-env.ps1
+
+# ── Maven build output ────────────────────────────────────────────────────────
+target/
+
+# ── IDE / Editor metadata ─────────────────────────────────────────────────────
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+*.eclipse
+nbproject/
+nb-configuration.xml
+
+# ── OS-generated files ────────────────────────────────────────────────────────
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ── Log files ─────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Compiled class files (outside target/) ───────────────────────────────────
+*.class
+
+# ── Package files ─────────────────────────────────────────────────────────────
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Files that are intentionally tracked:
+#   pom.xml           — Maven build definition
+#   shopsphere.sql    — Database schema & seed data (no passwords here)
+#   README.md         — Documentation
+#   src/              — All Java and JSP source files
+#   scripts/          — Helper scripts (contain no secrets)
+#   test-networking.sh — Networking module test runner
+# ─────────────────────────────────────────────────────────────────────────────
